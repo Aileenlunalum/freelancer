@@ -27,6 +27,9 @@ clear:both;
  float:left;
 color: white;
 }
+.colcuarta {
+  width: 2.08%;
+}
 .colmedia{
   width:4.17%;
 }
@@ -90,7 +93,14 @@ color: white;
   align-content: center;
 }
 .tamano{
-  width: 40%;
-  height: 20%:
+  width: 60%;
+
 }
-.colExcepcion
+.pT{
+  font-family: 'Anton', sans-serif;
+  f
+}
+.pN{
+font-family: 'Anton', sans-serif;
+f
+}
