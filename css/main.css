@@ -27,6 +27,10 @@ clear:both;
  float:left;
 color: white;
 }
+.pL{
+  color: black;
+}
+
 .colcuarta {
   width: 2.08%;
 }
@@ -35,7 +39,8 @@ color: white;
 }
 .col-1{
   width:8.33%;
-
+  /*background:red;
+  opacity:.4;*/
 }
 .col-2{
   width:16.66%;
@@ -98,9 +103,11 @@ color: white;
 }
 .pT{
   font-family: 'Anton', sans-serif;
-  f
 }
 .pN{
 font-family: 'Anton', sans-serif;
-f
+
+}
+.tamanoImg{
+width: 100%;
 }
