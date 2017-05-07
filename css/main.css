@@ -170,6 +170,9 @@ font-family: 'Anton', sans-serif;
 .positionDl{
   position:relative;
   left:24%;
-bottom:30px;
-color:#00991B;
+ bottom:30px;
+  color:#00991B;
 }
+.tamanoLetra{
+  font-size: 20px;
+ }
