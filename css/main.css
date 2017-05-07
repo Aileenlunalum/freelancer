@@ -2,6 +2,9 @@
   margin:0;
   padding:0;
 }
+body{
+  text-shadow: center;
+}
  nav{
    width: 100%;
    height: 70px;
@@ -12,7 +15,8 @@
 /* Estilos de tu proyecto*/
 .container{
   width: 100%;
- margin: 0px auto;
+   margin: 0px auto;
+
 }
 .row:before, .row:after{
   content:"";
@@ -31,83 +35,126 @@ color: white;
   color: black;
 }
 
-.colcuarta {
-  width: 2.08%;
+.img1{
+  width: 60%;
 }
-.colmedia{
+
+.col-cuarta {
+  width:2.08%;
+  background-color:purple;
+  opacity:.4;
+
+}
+
+.col-med{
   width:4.17%;
 }
+
+
 .col-1{
   width:8.33%;
-  /*background:red;
-  opacity:.4;*/
 }
+
+
+
 .col-2{
   width:16.66%;
 }
+
 .col-3{
   width:24.99%;
 }
+
 .col-4{
   width:33.32%;
 }
+
 .col-5{
   width:41.65%;
 }
+
 .col-6{
   width:49.98%;
 }
+
 .col-7{
   width:58.31%;
 }
+
 .col-8{
   width:66.64%;
 }
+
 .col-9{
   width: 74.97%;
 }
+
 .col-10{
   width:83.30%;
 }
+
 .col-11{
   width:91.63%;
 }
+
 .col-12
 {
   width: 99.96%;
 }
+
 .letrablanca{
   color: white;
 }
-/*excepcin*/
-.ccol-2{
-  {
-    width:17%;
-  }
-}
+/*excepcion*/
+
  .fondo{
    width: 100%;
    height: 70px;
    position: inline-block;
    background:green;
  }
+
 .fondoVerde{
   background:#27c0B0;
 }
+
 .alineacionTex{
   align-content: center;
 }
+
 .tamano{
   width: 60%;
-
 }
+
 .pT{
   font-family: 'Anton', sans-serif;
+  font-size: 30px;
 }
+
 .pN{
 font-family: 'Anton', sans-serif;
+ font-size: 20px;
 
 }
+
 .tamanoImg{
 width: 100%;
+}
+
+.alinearContenido{
+  align-items: center;
+}
+.margeinterno{
+margin:15px;
+}
+.tamanoImg{
+height: 33%;
+margin:auto;
+}
+.colorNegro{
+  color: black;
+  align-items: center;
+}
+.fondoVerdeObs{
+  background: #00991B;
 }
