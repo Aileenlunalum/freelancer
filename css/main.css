@@ -39,10 +39,9 @@ color: white;
   width: 60%;
 }
 
-.col-cuarta {
+.col-cuarto {
   width:2.08%;
-  background-color:purple;
-  opacity:.4;
+
 
 }
 
@@ -134,22 +133,23 @@ color: white;
 .pN{
 font-family: 'Anton', sans-serif;
  font-size: 20px;
+ align-content: center;
 
 }
 
 .tamanoImg{
-width: 100%;
+ width: 100%;
 }
 
 .alinearContenido{
   align-items: center;
 }
 .margeinterno{
-margin:15px;
+  margin:15px;
 }
 .tamanoImg{
-height: 33%;
-margin:auto;
+  height: 33%;
+  margin:auto;
 }
 .colorNegro{
   color: black;
@@ -157,4 +157,19 @@ margin:auto;
 }
 .fondoVerdeObs{
   background: #00991B;
+}
+.borde{
+  font-size: 12px;
+  background-color:white;
+  border-radius: 10%;
+  padding=0;
+}
+.icono{
+  width: 20%;
+}
+.positionDl{
+  position:relative;
+  left:24%;
+bottom:30px;
+color:#00991B;
 }
