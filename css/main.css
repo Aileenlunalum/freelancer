@@ -155,14 +155,16 @@ font-family: 'Anton', sans-serif;
   color: black;
   align-items: center;
 }
+
+
 .fondoVerdeObs{
   background: #00991B;
 }
 .borde{
   font-size: 12px;
   background-color:white;
-  border-radius: 10%;
-  padding=0;
+  border-radius: 20%;
+  padding:0;
 }
 .icono{
   width: 20%;
@@ -176,3 +178,22 @@ font-family: 'Anton', sans-serif;
 .tamanoLetra{
   font-size: 20px;
  }
+.cajaTexto{
+border-left: none;
+border-right: none;
+border-top: none;
+}
+
+.bordeSend{
+  font-size: 12px;
+  background-color:#00991B;
+  border-radius:20%;
+
+}
+.alinear{
+  align-content: center;
+  padding-left:30%;
+}
+.piePag{
+  background: black;
+}
